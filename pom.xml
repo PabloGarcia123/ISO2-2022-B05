@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>Iter1</module>
+  	<module>Iter2</module>
   </modules>
 </project>
