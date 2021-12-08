@@ -32,7 +32,7 @@
 		<dependency>
 			<groupId>ISO2</groupId>
 			<artifactId>Iter1</artifactId>
-			<version>0.4.3-SNAPSHOT</version>
+			<version>0.4.3</version>
 		</dependency>
 	</dependencies>
 
