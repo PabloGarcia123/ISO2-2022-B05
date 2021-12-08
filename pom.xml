@@ -8,6 +8,7 @@
   <modules>
   	<module>Iter1</module>
   	<module>Iter2</module>
-    <module>Iter4</module>
+  	<module>Iter4</module>
+    <module>Iter3</module>
   </modules>
 </project>
