@@ -10,6 +10,7 @@
 	</parent>
 
 	<artifactId>Iter2</artifactId>
+	<version>0.2.6</version>
 
 	<name>Iter2</name>
 	<!-- FIXME change it to the project's website -->
@@ -31,7 +32,7 @@
 		<dependency>
 			<groupId>ISO2</groupId>
 			<artifactId>Iter1</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.4.3-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
