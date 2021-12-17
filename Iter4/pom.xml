@@ -4,7 +4,7 @@
 	<parent>
 		<artifactId>B05</artifactId>
 		<groupId>ISO2</groupId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.1</version>
 	</parent>
 
 	<artifactId>Iter4</artifactId>
