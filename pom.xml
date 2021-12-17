@@ -10,5 +10,7 @@
   	<module>Iter2</module>
   	<module>Iter4</module>
     <module>Iter3</module>
+    <module>Iter5</module>
+    <module>Iter7</module>
   </modules>
 </project>
